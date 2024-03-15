@@ -26,11 +26,6 @@ User should have a .csv/.txt file with data that can be processed further.
 3. Oen text_UI.py in the IDE if you wish to provide the inputs to the user interface.
 4. Run the program in pythons' IDE, you should see the user interface and will be prompted to either enter a file or the inputs of your commands manually.
 
-##Usage
-
-Refer to user video: Demo of Software.
-
-
 
 License:
 MIT License
